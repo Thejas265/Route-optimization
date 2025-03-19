@@ -1,4 +1,3 @@
-# Route-optimization
 # Route Optimization using Dijkstra’s Algorithm
 
 ## Introduction  
